@@ -16,15 +16,15 @@ Game developed using Unity and C#.</p>
 Demo download available with 2 modes (Local Vs and Vs CPU).<br>
 Game developed using C# and Unity2D.</p>
       
-<h1><p align="center">Dev Tools</p></h1>
+<br/><h1><p align="center">Dev Tools</p></h1>
         
 <h3><a href="https://mvpet.github.io/Collision-Box-Editor/">Collision Box Editor</a></h3>
 <p>A collision box and frame-time editor for 2D sprite-based animations<br>
 Tool developed using C++ with SFML and imgui.</p>
         
-<h1><p align="center">Prototypes</p></h1>
+<br/><h1><p align="center">Prototypes</p></h1>
         
-<h3><a href="http://mvpet.github.io/FEXAW">>Advance Wars EX</a></h3>
+<h3><a href="http://mvpet.github.io/FEXAW">Advance Wars EX</a></h3>
 <p>A prototype of my custom made SRPG framework using Advance Wars gameplay.<br>
 Framework and prototype developed from scratch using C++ and SFML library.</p>
         
