@@ -1,6 +1,6 @@
 <h1><p align="center">Game Demos</p></h1>
 
-<h3><a id="project-v" class="anchor" href="https://mvpet.github.io/Project-V/" aria-hidden="true"><span class="octicon octicon-link"></span></a>Cap Vs. Com</h3>
+<h3><a href="https://mvpet.github.io/Project-V/"></a>Cap Vs. Com</h3>
 <p>A Capcom Vs. Capcom fighting game fan game with Marvel Vs. Capcom 3 mechanics.<br>
 The game was developed using my custom made fighting game framework.<br>
 Demo available with 2 modes (Local Vs and Training), 2 playable characters (Ryu and Kyosuke), and 2 assist characters (Saki and Ton Pooh).<br>
