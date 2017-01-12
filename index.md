@@ -28,7 +28,7 @@ Tool developed using C++ with SFML and imgui.</p>
 <p>A prototype of my custom made SRPG framework using Advance Wars gameplay.<br>
 Framework and prototype developed from scratch using C++ and SFML library.</p>
         
-<h3><a href="http://mvpet.github.io/Project-G.F.T/">vFramework</a></h3>
+<h3><a href="http://mvpet.github.io/Project-G.F.T/">Project G.F.T</a></h3>
 <p>A prototype of my custom made 2D Platform Fighter framework.<br>
 Framework developed using C++, Boost and SDL</p>
       
