@@ -10,11 +10,6 @@ Developed using C++ with SFML.</p>
 <p>A Street Fighter fan game. Gameplay is a 2D Beat Em Up with Dynasty Warriors mechanics.<br>
 Demo download available with 1 stage and 2 playable characters (Ryu and Chun-Li).<br>
 Game developed using Unity and C#.</p>
-
-<h3><a href="http://mvpet.github.io/MMBNNE/">MegaMan Battle Chip Challenge Battle Arena</a></h3>
-<p>A fan game of the Mega Man Battle Network gameplay with a unique twist.<br>
-Demo download available with 2 modes (Local Vs and Vs CPU).<br>
-Game developed using C# and Unity2D.</p>
       
 <br>
 <h1><p align="center">Dev Tools</p></h1>
@@ -26,6 +21,10 @@ Tool developed using C++ with SFML and imgui.</p>
 <br>
 <h1><p align="center">Prototypes</p></h1>
         
+<h3><a href="http://mvpet.github.io/MMBNNE/">MegaMan Battle Chip Challenge Battle Arena</a></h3>
+<p>A fan game of the Mega Man Battle Network gameplay with a unique twist.<br>
+Game developed using C# and Unity2D.</p>
+
 <h3><a href="http://mvpet.github.io/FEXAW">Advance Wars EX</a></h3>
 <p>A prototype of my custom made SRPG framework using Advance Wars gameplay.<br>
 Framework and prototype developed from scratch using C++ and SFML library.</p>
