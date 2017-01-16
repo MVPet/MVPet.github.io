@@ -17,7 +17,7 @@ Demo download available with 1 stage and 2 playable characters (Ryu and Chun-Li)
 <h1><p align="center">Dev Tools</p></h1>
         
 <h3><a href="https://mvpet.github.io/Collision-Box-Editor/">Collision Box Editor</a></h3>
-<p>A collision box and frame-time editor for 2D sprite-based animations<br>
+<p>A collision box and frame-time editor for 2D sprite-based animations.<br>
 <i>Developed With: C++, SFML, and imgui</i><br>
 <i>Development Time: August 2016 to August 2016</i></p>
         
