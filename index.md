@@ -8,7 +8,7 @@ Demo available with 2 modes (Local Vs and Training), 2 playable characters (Ryu 
 <i>Development Time: July 2016 to December 2016</i></p>
       
 <h3><a href="http://mvpet.github.io/ProjectWW/">C.C. Brawlers</a></h3>
-<p>A Street Fighter fan game. Gameplay is a 2D Beat Em Up with Dynasty Warriors mechanics.<br>
+<p>A Street Fighter fan game. A 2D Beat Em Up with Dynasty Warriors gameplay.<br>
 Demo download available with 1 stage and 2 playable characters (Ryu and Chun-Li).<br>
 <i>Developed With: C# and Unity</i><br>
 <i>Development Time: January 2016 to April 2016</i></p>
