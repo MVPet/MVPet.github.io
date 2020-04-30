@@ -1,6 +1,6 @@
 <h1><p align="center">In Development</p></h1>
 
-<h3><a href="https://mvpet.github.io/ProjectPower/">Project Power</a></h3>
+<h3><a href="https://mvpet.github.io/ProjectPower/">ProjectPower</a></h3>
 <p>A third-person action game inspired by E.X. Troopers and Nier.<br>
 Alpha footage available for viewing at the game's page.<br>
 <i>Developed With: C++, Unreal, Blueprints, Blender</i><br>
